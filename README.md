@@ -72,7 +72,7 @@ O **handoff de design** está disponível no Figma:
 
 3. Acesse a pasta do projeto:  
    ```bash
-   cd yduqs-portais-desafio-fullstack
+   cd yduqs-j0-primeira-compra-front-end
    ```
 
 4. Configure e rode o **frontend** de acordo com os requisitos definidos.  
