@@ -6,7 +6,7 @@ Bem-vindo(a)! Este é o repositório base para o **Desafio Front End** da nossa 
 
 ## 🎯 Objetivo
 
-Construir uma aplicação **fullstack** onde usuários podem visualizar ofertas de cursos, selecionar um curso e realizar a matrícula.
+Construir uma aplicação **front end** onde usuários podem visualizar ofertas de cursos, selecionar um curso e realizar a matrícula.
 
 O **handoff de design** está disponível no Figma:  
 🔗 [Acessar Figma](https://www.figma.com/design/jJLBqZG5RLoL9pbviYvAZW/Teste---Desenvolvimento?node-id=8-2156&t=FjZv9T176fS24B4e-0)  
@@ -15,14 +15,6 @@ O **handoff de design** está disponível no Figma:
 ---
 
 ## 🛠️ Requisitos
-
-### Backend (Node.js + TypeScript)
-- Framework: **NestJS**  
-- Banco de dados: **PostgreSQL ou MongoDB**  
-- Estrutura em camadas (**controllers, services, repositories**)  
-- Validações de entrada (ex.: email válido, campos obrigatórios)  
-- Documentação da API (**Swagger ou similar**)  
-- Testes automatizados (**unitários e integração**)  
 
 ### Frontend (React + TypeScript)
 - Framework: **React**  
@@ -36,6 +28,14 @@ O **handoff de design** está disponível no Figma:
 - Banco em **Docker** com migrations (**Prisma, TypeORM ou Sequelize**)  
 - Logs estruturados  
 - Uso de bibliotecas de UI como **shadcn/ui**, **Material UI (MUI)**, **Chakra UI** ou outras similares para acelerar o desenvolvimento do frontend
+
+### Extra Backend (Node.js + TypeScript)
+- Framework: **NestJS**  
+- Banco de dados: **PostgreSQL ou MongoDB**  
+- Estrutura em camadas (**controllers, services, repositories**)  
+- Validações de entrada (ex.: email válido, campos obrigatórios)  
+- Documentação da API (**Swagger ou similar**)  
+- Testes automatizados (**unitários e integração**)
   
 ---
 
@@ -75,12 +75,12 @@ O **handoff de design** está disponível no Figma:
    cd yduqs-portais-desafio-fullstack
    ```
 
-4. Configure e rode o **backend** e o **frontend** de acordo com os requisitos definidos.  
+4. Configure e rode o **frontend** de acordo com os requisitos definidos.  
 
 5. Desenvolva sua solução fazendo **commits pequenos e frequentes**, para que possamos acompanhar sua linha de raciocínio e evolução.  
 
 6. Ao finalizar, envie o **link do seu fork** para avaliação.  
-   - Exemplo: `https://github.com/<seu-usuario>/yduqs-portais-desafio-fullstack`
+   - Exemplo: `https://github.com/<seu-usuario>/yduqs-j0-primeira-compra-front-end`
 
 ---
 
