@@ -1,6 +1,6 @@
-# 🚀 Desafio Fullstack – Processo Seletivo
+# 🚀 Desafio Front End – Processo Seletivo
 
-Bem-vindo(a)! Este é o repositório base para o **Desafio Fullstack** da nossa etapa de seleção de novos colaboradores.
+Bem-vindo(a)! Este é o repositório base para o **Desafio Front End** da nossa etapa de seleção de novos colaboradores.
 
 ---
 
