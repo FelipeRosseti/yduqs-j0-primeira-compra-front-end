@@ -67,7 +67,7 @@ O **handoff de design** está disponível no Figma:
 
 2. Clone o repositório que você acabou de forkear para a sua máquina local:  
    ```bash
-   git clone https://github.com/<seu-usuario>/yduqs-portais-desafio-fullstack.git
+   git clone https://github.com/<seu-usuario>/yduqs-j0-primeira-compra-front-end.git
    ```
 
 3. Acesse a pasta do projeto:  
