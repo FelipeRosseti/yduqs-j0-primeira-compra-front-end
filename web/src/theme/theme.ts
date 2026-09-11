@@ -15,6 +15,8 @@ export const theme = createTheme({
             fontSize: '2rem', 
             lineHeight: 1.2, 
         },
-        button: { textTransform: 'none' },
+        body1: { letterSpacing: 0 },
+        body2: { letterSpacing: 0 },
+        button: { textTransform: 'none', letterSpacing: 0 },
     },
 });
