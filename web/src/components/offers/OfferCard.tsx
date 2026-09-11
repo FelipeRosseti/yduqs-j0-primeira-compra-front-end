@@ -29,7 +29,7 @@ const HEADER_TEXT_STYLE = { fontSize: '16px', fontWeight: 500, lineHeight: '22px
 function PriceDetails({ price }: { price: OfferPrice }) {
     return (
         <Box>
-            <Typography sx={{ fontSize: '16px', fontWeight: 500, lineHeight: '18px', opacity: 0.9 }}>
+            <Typography sx={{ fontSize: '16px', fontWeight: 500, lineHeight: '18px', opacity: 0.9, mb: '4px' }}>
                 De <s>{price.original}</s> por até
             </Typography>
             <Box sx={{ display: 'flex', alignItems: 'baseline', gap: '4px' }}>
