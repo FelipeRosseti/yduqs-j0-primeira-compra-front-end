@@ -1,4 +1,5 @@
 import Header from './components/layout/Header';
+import OffersList from './components/offers/OffersList';
 import OffersHeroBanner from './pages/OffersHeroBanner';
 
 function App() {
@@ -6,6 +7,7 @@ function App() {
     <>
     <Header />
     <OffersHeroBanner />
+    <OffersList />
     </>
   )
 }
