@@ -9,7 +9,12 @@ export const theme = createTheme({
     },
     typography: {
         fontFamily: 'Inter, sans-serif',
-        h1: { fontFamily: 'Montserrat, sans-serif', fontWeight: 500 },
+        h1: { 
+            fontFamily: 'Montserrat, sans-serif', 
+            fontWeight: 500, 
+            fontSize: '2rem', 
+            lineHeight: 1.2, 
+        },
         button: { textTransform: 'none' },
     },
 });
