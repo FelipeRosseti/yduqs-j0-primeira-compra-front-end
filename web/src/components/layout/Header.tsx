@@ -2,7 +2,7 @@ import Box from '@mui/material/Box';
 import estacioLogo from '../../assets/estacio-logo.svg';
 
 const HEADER_HEIGHT = { xs: 64, md: 88 };
-const HEADER_PADDING_INLINE = { xs: '24px', md: '88px' };
+const HEADER_PADDING_INLINE = { xs: '16px', md: '88px' };
 const LOGO_WIDTH = { xs: 127, md: 159 };
 const LOGO_HEIGHT = { xs: 32, md: 40 };
 
